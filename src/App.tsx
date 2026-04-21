@@ -18,7 +18,7 @@ import {
 const IMAGES = [
   'https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&q=80',
   'https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80',
-  'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=80'
+  'https://github.com/ANIKETGUDDU/AnushasanLib-/blob/668e8aa0e2d3ea25a78aa252a166b96ef2073b91/IMG-20260421-WA0001.jpg'
 ];
 
 const FACILITIES = [
