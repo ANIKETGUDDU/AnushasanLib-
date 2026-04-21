@@ -16,7 +16,7 @@ import {
 } from 'lucide-react';
 
 const IMAGES = [
-  'IMG-20260421-WA0005.jpg',
+  'https://drive.google.com/file/d/1M9PAz1qUthIEq4UApHi_YJSNlNCpl0r9/view?usp=drivesdk',
   'https://github.com/ANIKETGUDDU/AnushasanLib-/blob/33c39b223e8783352768d93722a3b63faaaa4661/IMG-20260421-WA0001.jpg',
   'https://github.com/ANIKETGUDDU/AnushasanLib-/blob/668e8aa0e2d3ea25a78aa252a166b96ef2073b91/IMG-20260421-WA0001.jpg'
 ];
